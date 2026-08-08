@@ -3,6 +3,8 @@ Router table with electronic router lift using ESP32 and 3.5" touch screen
 
 In 2020 I designed and built this router table with an electronic router lift. Since then i upgraded the electronics and rewrote the software, i made a YT video for it and published the design.
 
+https://youtu.be/Isq1No5Fesk
+
 Main features:
 
 - Z height calibration using a sense block
